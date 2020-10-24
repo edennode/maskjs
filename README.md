@@ -1,0 +1,1 @@
+# maskjs test package
